@@ -1,3 +1,3 @@
 <?php
-	$server="111.235.28.207";
+	$server="";
 	$conn_id=ftp_connect($server) or die("failed");
